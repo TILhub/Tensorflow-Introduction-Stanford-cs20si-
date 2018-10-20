@@ -4,25 +4,25 @@
 #### Video Lectures: https://www.youtube.com/playlist?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs
 
 ### FOR CPU
-Install necessary python packages.
-sudo apt-get install python3-pip python3-dev -y
+Install necessary python packages. 
+###### sudo apt-get install python3-pip python3-dev -y
 
-Upgrade pip
-pip3 install --upgrade pip
+Upgrade pip 
+###### pip3 install --upgrade pip 
 
-Install tensorflow (cpu only)
-pip3 install tensorflow
+Install tensorflow (cpu only) 
+###### pip3 install tensorflow
 
 ### FOR GPU
-Install necessary python packages.
-sudo apt-get install python3-pip python3-dev -y
+Install necessary python packages. 
+###### sudo apt-get install python3-pip python3-dev -y
 
-Upgrade pip
-pip3 install --upgrade pip
+Upgrade pip 
+###### pip3 install --upgrade pip
 
-Install tensorflow with GPU support
-pip3 install tensorflow-gpu
+Install tensorflow with GPU support 
+###### pip3 install tensorflow-gpu
 
 
-UnInstalling Tensorflow
-sudo pip3 uninstall tensorflow
+UnInstalling Tensorflow 
+###### sudo pip3 uninstall tensorflow
