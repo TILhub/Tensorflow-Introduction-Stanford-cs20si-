@@ -26,3 +26,10 @@ Install tensorflow with GPU support
 
 UnInstalling Tensorflow 
 ###### sudo pip3 uninstall tensorflow
+
+### for Raspberry pi
+###### sudo apt install libatlas-base-dev
+###### pip3 install tensorflow
+
+Google has a bunch of models developed for Raspberry Pi that you can test out. Start by cloning the TensorFlow repository:
+git clone https://github.com/tensorflow/tensorflow.git
