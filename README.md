@@ -24,7 +24,7 @@ Install tensorflow with GPU support
 ###### pip3 install tensorflow-gpu
 
 
-UnInstalling Tensorflow 
+Uninstalling Tensorflow 
 ###### sudo pip3 uninstall tensorflow
 
 ### for Raspberry pi
